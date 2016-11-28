@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "122724818882",
+    "firebase_url": "https://fir-979e5.firebaseio.com",
+    "project_id": "fir-979e5",
+    "storage_bucket": "fir-979e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122724818882:android:59fbe584ed1abcbd",
+        "android_client_info": {
+          "package_name": "technology.herd.basura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122724818882-d062f77thsbins72vos8m44o8coi5kcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "technology.herd.basura",
+            "certificate_hash": "EDDE1430BE2776AA73A2FB67256409CF4A9467CA"
+          }
+        },
+        {
+          "client_id": "122724818882-smsbrp1ufkebigmjgc0pl9vnrr6q35ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122724818882-smsbrp1ufkebigmjgc0pl9vnrr6q35ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
